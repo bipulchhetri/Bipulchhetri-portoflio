@@ -77,7 +77,7 @@ const Home = () => {
           <img
             src={Bipul}
             alt="profile"
-            className="max-w-sm max:w-full  p-12 bp animate-pulse"
+            className="max-w-sm max:w-full  p-12 bp "
           />
         </div>
       </div>

@@ -59,9 +59,14 @@ body{
   min-height: 100vh;
 }
 .bp{
-  border-radius:68% 32% 44% 56% / 61% 1% 99% 39% ;
-background-color: green;
+  background: linear-gradient(to right, rgb(34, 218, 144), rgb(223, 89, 6));
+  padding: 10px;
+  width: 80%;
+
 }
+  /* border-radius:68% 32% 44% 56% / 61% 1% 99% 39% ; */
+/* background-color: green; */
+
 .typewriterpara{
   font-size: 2rem;
   font-weight: bolder;
