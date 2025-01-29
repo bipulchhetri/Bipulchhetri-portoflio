@@ -4,7 +4,7 @@ import { AiFillGithub,AiFillLinkedin} from 'react-icons/ai';
 const Footer = () => {
   return (
     <div className=' bg-green-500 p-3'>
-      <p className='text-white items-center flex justify-center pt-5 font-bold '>Developed By Bipul -2024-25</p>
+      <p className='text-white items-center flex justify-center pt-5 font-bold '>Developed By Bipul-2025</p>
       <div  className="social flex gap-3 my-2 cursor-pointer justify-center">
 <div className="text-white text-3xl hover:scale-125 duration-500">
 <a href="https://www.facebook.com/1bipulchhetri/"><BsFacebook/></a>
