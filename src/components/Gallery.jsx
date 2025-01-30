@@ -9,8 +9,8 @@ const images = [
     url: "https://artificialintelligence-three.vercel.app/images/robot.png",
     category: "JavaScript",
     title: "Simple AI JS",
-    demo: "https://travel-dost.vercel.app/",
-    github: "https://github.com/bipulchhetri/Hotel-Booking-Website",
+    demo: "https://artificialintelligence-three.vercel.app/",
+    github: "https://github.com/bipulchhetri/AI",
   },
 
   {
@@ -19,13 +19,15 @@ const images = [
     category: "JavaScript",
     title: "TEXT TO SPEECH ",
     demo: "https://textstospeechconverter.netlify.app/",
-    github: "https://github.com/bipulchhetri/Hotel-Booking-Website",
+    github: "https://github.com/bipulchhetri/10DaysJsprojectChallenge",
   },
   {
     id: 3,
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0PVl3tWPW8jMk9hL18YrqDWKpQSwtA9Wog&s",
     category: "html",
     title: "Travel Website ",
+    demo: "https://travel-dost.vercel.app/",
+    github: "https://github.com/bipulchhetri/Hotel-Booking-Website",
   },
   // { id: 4, url: "https://via.placeholder.com/200", category: "React" },
   {
@@ -33,6 +35,8 @@ const images = [
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcDLMWSWyfLAmxHsjoPSVDU0XCoDmBr9Oy9Q&s",
     category: "html",
     title: "Organic Store",
+    demo: "https://ecommercerontend.vercel.app/",
+    github: "https://github.com/bipulchhetri/Frontend-Roadmap-Propeers",
   },
   // {
   //   id: 6,
@@ -46,12 +50,16 @@ const images = [
     url: "https://pocket-note-app-six.vercel.app/static/media/notes-main.981e2e07f14cd4175925.png",
     category: "React",
     title: "POECKET NOTE",
+    demo: "https://pocket-note-app-six.vercel.app/",
+    github: "https://github.com/bipulchhetri/Pocket-note-app",
   },
   {
     id: 9,
     url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
     category: "Mern",
     title: "URL SHORTENER",
+    demo: "https://url-shortener-full-stack.vercel.app/",
+    github: "https://github.com/bipulchhetri/URL-Shortener-Full-Stack",
 
   },
 ];
