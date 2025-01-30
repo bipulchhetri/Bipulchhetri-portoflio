@@ -1,6 +1,6 @@
 import About from './components/About';
 import Contact from './components/Contact';
-import Filter from './components/Filter';
+// import Filter from './components/Filter';
 import Footer from './components/Footer';
 import Gallery from './components/Gallery';
 import Home from './components/Home';

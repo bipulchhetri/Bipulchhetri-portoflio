@@ -15,7 +15,8 @@ export const images = [
     img: image1,
     category: "htmll",
     link: 'https://crypto-info-api.cyclic.app/',
-    repo: 'https://github.com/rahulkarda/crypto-info-api'
+    repo: 'https://github.com/rahulkarda/crypto-info-api',
+    title:"Hello world"
   },
   {
     id: 2,
