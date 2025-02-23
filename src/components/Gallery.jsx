@@ -5,7 +5,7 @@ import "../index.css";
 
 const images = [
   {
-    id: 9,
+    id: 1,
     url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
     category: "Mern",
     title: "URL SHORTENER",
@@ -14,7 +14,7 @@ const images = [
 
   },
   {
-    id: 9,
+    id: 2,
     url: "https://www.pdfgear.com/pdf-converter/img/how-to-convert-word-to-pdf-1.png",
     category: "Mern",
     title: "WORD TO PDF CONVERTER",
@@ -23,7 +23,15 @@ const images = [
 
   },
   {
-    id: 1,
+    id: 3,
+    url: "https://pocket-note-app-six.vercel.app/static/media/notes-main.981e2e07f14cd4175925.png",
+    category: "React",
+    title: "POECKET NOTE",
+    demo: "https://pocket-note-app-six.vercel.app/",
+    github: "https://github.com/bipulchhetri/Pocket-note-app",
+  },
+  {
+    id: 4,
     url: "https://artificialintelligence-three.vercel.app/images/robot.png",
     category: "JavaScript",
     title: "Simple AI JS",
@@ -32,7 +40,7 @@ const images = [
   },
 
   {
-    id: 2,
+    id: 5,
     url: "https://i.ytimg.com/vi/1TFwEWwXWbw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJ6zR4szTDpU8r6Z1LZgNfCuw5WQ",
     category: "JavaScript",
     title: "TEXT TO SPEECH ",
@@ -40,7 +48,7 @@ const images = [
     github: "https://github.com/bipulchhetri/10DaysJsprojectChallenge",
   },
   {
-    id: 3,
+    id: 6,
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0PVl3tWPW8jMk9hL18YrqDWKpQSwtA9Wog&s",
     category: "html",
     title: "Travel Website ",
@@ -49,7 +57,7 @@ const images = [
   },
   // { id: 4, url: "https://via.placeholder.com/200", category: "React" },
   {
-    id: 5,
+    id: 7,
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcDLMWSWyfLAmxHsjoPSVDU0XCoDmBr9Oy9Q&s",
     category: "html",
     title: "Organic Store",
@@ -63,14 +71,7 @@ const images = [
   //   title: "API Project",
   // },
   // { id: 7, url: "", category: "React" },
-  {
-    id: 8,
-    url: "https://pocket-note-app-six.vercel.app/static/media/notes-main.981e2e07f14cd4175925.png",
-    category: "React",
-    title: "POECKET NOTE",
-    demo: "https://pocket-note-app-six.vercel.app/",
-    github: "https://github.com/bipulchhetri/Pocket-note-app",
-  },
+
  
 ];
 
