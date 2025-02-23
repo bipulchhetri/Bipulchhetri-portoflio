@@ -1,6 +1,6 @@
 import React from "react";
 import { FaDownload } from "react-icons/fa";
-import Pdf from "../assets/Bipul.pdf";
+import Pdf from "../assets/UPDATED_BIPUL_CHHETRI.pdf";
 const About = () => {
   return (
     <div className="max-w-screen-lg text-white flex justify-between align-center p-8 about mx-auto">
