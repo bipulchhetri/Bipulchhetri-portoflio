@@ -5,6 +5,24 @@ import "../index.css";
 
 const images = [
   {
+    id: 9,
+    url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
+    category: "Mern",
+    title: "URL SHORTENER",
+    demo: "https://url-shortener-full-stack.vercel.app/",
+    github: "https://github.com/bipulchhetri/URL-Shortener-Full-Stack",
+
+  },
+  {
+    id: 9,
+    url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
+    category: "Mern",
+    title: "WORD TO PDF CONVERTER",
+    demo: "https://word-to-pdf-iota.vercel.app/",
+    github: "https://github.com/bipulchhetri/word-to-pdf",
+
+  },
+  {
     id: 1,
     url: "https://artificialintelligence-three.vercel.app/images/robot.png",
     category: "JavaScript",
@@ -53,15 +71,7 @@ const images = [
     demo: "https://pocket-note-app-six.vercel.app/",
     github: "https://github.com/bipulchhetri/Pocket-note-app",
   },
-  {
-    id: 9,
-    url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
-    category: "Mern",
-    title: "URL SHORTENER",
-    demo: "https://url-shortener-full-stack.vercel.app/",
-    github: "https://github.com/bipulchhetri/URL-Shortener-Full-Stack",
-
-  },
+ 
 ];
 
 const Gallery = () => {
