@@ -15,7 +15,7 @@ const images = [
   },
   {
     id: 9,
-    url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
+    url: "https://www.pdfgear.com/pdf-converter/img/how-to-convert-word-to-pdf-1.png",
     category: "Mern",
     title: "WORD TO PDF CONVERTER",
     demo: "https://word-to-pdf-iota.vercel.app/",
