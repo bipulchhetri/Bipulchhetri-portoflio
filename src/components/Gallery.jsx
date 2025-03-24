@@ -5,12 +5,21 @@ import "../index.css";
 
 const images = [
   {
+    id: 0,
+    url: "https://stackideas.com/images/apps/2429/logo.png",
+    category: "Mern",
+    title: "ENGLISIFY- BLOG APP",
+    demo: "https://blog-app-beige-six.vercel.app/",
+    github: "https://github.com/bipulchhetri/Blog-App",
+
+  },
+  {
     id: 1,
     url: "https://miro.medium.com/v2/resize:fit:1132/format:webp/1*DQAVyAM94Q88sk5Pq1iOJg.png",
     category: "Mern",
     title: "URL SHORTENER",
-    demo: "https://url-shortener-full-stack.vercel.app/",
-    github: "https://github.com/bipulchhetri/URL-Shortener-Full-Stack",
+    demo: "https://shortify-phi.vercel.app/",
+    github: "https://github.com/bipulchhetri/shortify",
 
   },
   {
@@ -106,7 +115,7 @@ const Gallery = () => {
             <div className="buttons">
               <p
                 className="text-xl text-transform: uppercase bg-slate-800 p-3
- text-green-500"
+ text-yellow-500"
               >
                 {image.title}
               </p>
