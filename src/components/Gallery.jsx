@@ -59,7 +59,7 @@ const images = [
 
   {
     id: 5,
-    url: "https://i.ytimg.com/vi/1TFwEWwXWbw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJ6zR4szTDpU8r6Z1LZgNfCuw5WQ",
+    url: "https://i.ytimg.com/vi/nPXn7pC2XZc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5XuyLO_ONRGmhgwYlp3CkVWnSww",
     category: "JavaScript",
     title: "TEXT TO SPEECH ",
     demo: "https://textstospeechconverter.netlify.app/",
@@ -105,7 +105,7 @@ const Gallery = () => {
 
   return (
     <div className="gallery portfolio">
-      <h1 className="port">My Portoflio</h1>
+      <h1 className="port">My Latest Porject</h1>
       <div className="filters">
         <button onClick={() => handleFilterChange("All")}>All</button>
         <button onClick={() => handleFilterChange("html")}>HMTL&CSS</button>
