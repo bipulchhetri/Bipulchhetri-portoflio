@@ -5,6 +5,15 @@ import "../index.css";
 
 const images = [
   {
+    id: 10,
+    url: "https://images.prismic.io/hatica/659f883f7a5e8b1120d56eae_TopAItoolstohelpyouwithcodereviewsin2024-2-.jpg?auto=format%2Ccompress&rect=0%2C0%2C1800%2C1151&w=1200&h=767",
+    category: "Mern",
+    title: "AI CODE REVIEWER",
+    demo: "https://ai-code-review-rouge.vercel.app/",
+    github: "https://github.com/bipulchhetri/AI-code-review",
+
+  },
+  {
     id: 0,
     url: "https://stackideas.com/images/apps/2429/logo.png",
     category: "Mern",
